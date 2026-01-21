@@ -1,0 +1,32 @@
+    #kt_ecommerce_report_views_table tfoot input.footer-search {
+        width: 50%;
+        box-sizing: border-box;
+    }
+
+    .app-root {
+        display: flex;
+        flex-direction: column;
+        min-height: 100vh;
+    }
+
+    .app-page {
+        flex: 1;
+        display: flex;
+        flex-direction: column;
+    }
+
+    .app-wrapper {
+        flex: 1;
+        display: flex;
+        flex-direction: column;
+    }
+
+    .content-page {
+        flex: 1;
+        display: flex;
+        flex-direction: column;
+    }
+
+    .app-footer {
+        margin-top: auto;
+    }
